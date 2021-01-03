@@ -1,2 +1,2 @@
 # renovacao
-renovação do rteinamento GIR na Alura
+renovação do treinamento GIR na Alura
