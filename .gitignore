@@ -12,5 +12,6 @@
 *.dca
 *.scc
 *.tmp
+/ide-config
 ide-config.ini
 *.docx
